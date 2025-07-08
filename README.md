@@ -22,6 +22,8 @@ This Unity 3D project is an interactive arcade-style game created for a universi
 ### Camera Controls
 - Arrow Keys: Move camera in X/Z plane
 - `+` / `-`: Move camera up/down (Y-axis)
+- `R ` / `P`: Rotate camera around X axis
+- `F` / `L`: Rotate camera around Z axis
 
 ## Special Features
 
@@ -34,11 +36,6 @@ This Unity 3D project is an interactive arcade-style game created for a universi
 
 - Unity3D (2022.x recommended)
 - System capable of running Unity 3D applications
-
-## Files
-
-- `Assets/`: Contains scripts, models, textures
-- `Scenes/`: Main scene for the game
 
 ## Bonus Features
 
