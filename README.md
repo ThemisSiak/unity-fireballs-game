@@ -1,4 +1,8 @@
-# Βρέχει μπάλες!! (It's Raining Balls!!)
+<p align="center">
+  <img src="./Logo.jpeg" alt="Preview" width="200"/>
+</p>
+
+<h1 align="center">Βρέχει μπάλες!! (It's Raining Balls!!)</h1>
 
 This Unity 3D project is an interactive arcade-style game created for a university graphics course. The player controls a flying craft and must avoid fireballs falling from the sky.
 
@@ -41,6 +45,9 @@ This Unity 3D project is an interactive arcade-style game created for a universi
 
 - Speed control for the ship (5 levels)
 - "Game Over" screen on collision
+
+## Design details
+-The readme.pdf contains the details of creating and designing the application.
 
 ## Authors
 
